@@ -1,0 +1,16 @@
+.app{
+    text-align: center;
+    color: black;
+}
+
+.card{
+    box-shadow: 0 4px 8px 0 black;
+    transition: 0.3s;
+    width: 40%;
+    align-items: center;
+    margin-bottom: 2%;
+    margin-left: 30%;
+}
+.container{
+    padding: 2px 16px;
+}

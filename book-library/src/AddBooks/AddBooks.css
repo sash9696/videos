@@ -1,0 +1,19 @@
+.addBooks{
+    flex: 0.3;
+    padding-right: 20px;
+    margin-top: 20px;
+}
+
+.addBooks > form{
+    display: flex;
+    flex-direction: column;
+}
+
+.addBooks_input{
+    height: 22px;
+    margin-bottom: 12px;
+}
+.addBooks_button{
+    width: 100%;
+    padding: 10px 12px;
+}
